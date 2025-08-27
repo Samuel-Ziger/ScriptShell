@@ -32,3 +32,4 @@ echo "Saída do Último comando: $?"  # Mostra o código de saída do último co
 echo "PID: $$"  # Mostra o PID (ID do processo) do script em execução
 
 echo "$0"  # Mostra o nome do script sendo executado
+
